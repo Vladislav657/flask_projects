@@ -1,0 +1,80 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:root:Запуск приложения
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:root:Р—Р°РїСѓСЃРє РїСЂРёР»РѕР¶РµРЅРёСЏ
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:root:Запуск приложения
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:root:Запуск приложения
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:root:Запуск приложения
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:root:Запуск приложения
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:root:Запуск приложения
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:root:Запуск приложения
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:root:Запуск приложения
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:root:Запуск приложения
+ERROR:root:werkzeug
+NoneType: None
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:root:Запуск приложения
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:56:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:56:14] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск постов по запросу "о"
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:56:22] "POST /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:56:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:56:22] "[36mGET /static/uploads/images/1628113715_tractor.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:56:22] "[36mGET /static/uploads/images/cat.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:56:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:56:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:56:32] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:56:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Пост загружен
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:57:09] "POST /post_upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:57:10] "GET /static/uploads/images/41824074.jpg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:57:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:57:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:57:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск постов по запросу "о"
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:57:15] "POST /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:57:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:57:16] "[36mGET /static/uploads/images/1628113715_tractor.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:57:16] "[36mGET /static/uploads/images/cat.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:57:16] "[36mGET /static/uploads/images/41824074.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:57:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:57:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:58:38] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:58:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Загруженный файл - не картинка (расширение не jpeg и не png)
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:58:50] "POST /post_upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:59:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 15:59:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Запуск приложения
+INFO:werkzeug: * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 16:04:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 16:04:45] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск постов по запросу "о"
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 16:04:48] "POST /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 16:04:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 16:04:49] "[36mGET /static/uploads/images/cat.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 16:04:49] "[36mGET /static/uploads/images/1628113715_tractor.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 16:04:49] "[36mGET /static/uploads/images/41824074.jpg HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 16:04:52] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 16:04:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Загруженный файл - не картинка (расширение не jpeg и не png)
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 16:05:06] "POST /post_upload HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 16:05:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 16:05:09] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск постов по запросу "кот"
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 16:05:12] "POST /search HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 16:05:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [03/May/2022 16:05:12] "[36mGET /static/uploads/images/cat.png HTTP/1.1[0m" 304 -
+INFO:root:Запуск приложения
